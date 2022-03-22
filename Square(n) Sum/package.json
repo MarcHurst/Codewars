@@ -1,0 +1,23 @@
+{
+  "name": "squarensum",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcHurst/Square-n--Sum.git"
+  },
+  "keywords": [
+    "codewarriors"
+  ],
+  "author": "Marc Hurst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcHurst/Square-n--Sum/issues"
+  },
+  "homepage": "https://github.com/MarcHurst/Square-n--Sum#readme"
+}

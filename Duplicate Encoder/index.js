@@ -1,0 +1,5 @@
+const duplicateEncode = word => word.toLowerCase()
+    .split("")
+    .map(char => word.toLowerCase()
+    .match(new RegExp(char, "g")).length > 1 ? ")" : "(")
+    .join("")
